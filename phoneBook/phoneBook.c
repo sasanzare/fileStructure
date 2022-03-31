@@ -196,7 +196,7 @@ int main() {
     case 3:search();break;
     case 4:sort();break;
     case 5:delete();break;
-    case 6:printf("\n\r===========  Have Good Time ===========\n\r");exit(1);
+    case 6:printf("\n\r===========  Have a Good Time ===========\n\r");exit(1);
     default:;
     }
   }
