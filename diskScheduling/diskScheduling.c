@@ -386,6 +386,6 @@ int main(){
 	C_SCAN( req,no_of_requests,initial_head,limit,choice);
 	LOOK( req,no_of_requests,initial_head,limit,choice);
 	C_LOOK( req,no_of_requests,initial_head,limit,choice);
-	printf("\n\r\n\r===========  Have Good Time ===========\n\r");
+	printf("\n\r\n\r===========  Have a Good Time ===========\n\r");
 	return 0;
 }
